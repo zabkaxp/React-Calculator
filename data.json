@@ -1,0 +1,28 @@
+{
+  "currencies": [
+    {
+      "id": 1,
+      "name": "zloty",
+      "ratio": 1,
+      "title": "Value in Zlotych: "
+    },
+    {
+      "id": 2,
+      "name": "pound",
+      "ratio": 4.94,
+      "title": "Value in Pounds: "
+    },
+    {
+      "id": 3,
+      "name": "dolar",
+      "ratio": 3.81,
+      "title": "Value in Dollars: "
+    },
+    {
+      "id": 4,
+      "name": "euro",
+      "ratio": 4.12,
+      "title": "Value in Euros: "
+    }
+  ]
+}
